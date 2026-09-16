@@ -33,7 +33,7 @@ void main(){
     print(" employ  $employe");
   }
 
-class Employee {
+class Employee 1 {
   int id = team 3001
   String name = "1.Ahmed";
   double salary = 20,000;
@@ -52,6 +52,7 @@ class Employee {
     this.totalSales = 0,
     this.leaves = 0,
   });
+  
 }
 
 
